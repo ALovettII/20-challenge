@@ -34,7 +34,7 @@ The project is comprised of three sections:
 
 #### Execution Results:
 * The screenshots verify the setAccounts function:
-    1. [setAccounts](https://github.com/ALovettII/20-challenge/blob/main/Execution_Results/setAccounts.png)
+![setAccounts](https://github.com/ALovettII/20-challenge/blob/main/Execution_Results/setAccounts.png)
 * The following screenshots verify execution of the deposit function:
     1. [Deposit: Transaction 1](https://github.com/ALovettII/20-challenge/blob/main/Execution_Results/01_deposit.png)
     2. [Deposit: Transaction 2](https://github.com/ALovettII/20-challenge/blob/main/Execution_Results/02_deposit.png)
