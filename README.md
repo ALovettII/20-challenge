@@ -33,7 +33,7 @@ The project is comprised of three sections:
 3. Interact with Your Deployed Smart Contract
 
 #### Execution Results:
-* The screenshots verify the setAccounts function:
+* The screenshot verifies the setAccounts function:
 ![setAccounts](https://github.com/ALovettII/20-challenge/blob/main/Execution_Results/setAccounts.png)
 * The following screenshots verify execution of the deposit function:
     1. [Deposit: Transaction 1](https://github.com/ALovettII/20-challenge/blob/main/Execution_Results/01_deposit.png)
@@ -42,9 +42,9 @@ The project is comprised of three sections:
 
 * The following screenshots verify execution of the withdrawal & last functions:
     1. [Withdrawal & Balance: Transaction 1](https://github.com/ALovettII/20-challenge/blob/main/Execution_Results/01_withdraw-bal.png)
-        1. [Last: Transaction 1](https://github.com/ALovettII/20-challenge/blob/main/Execution_Results/01_withdraw-last.png)
+        a. [Last: Transaction 1](https://github.com/ALovettII/20-challenge/blob/main/Execution_Results/01_withdraw-last.png)
     2. [Withdrawal & Balance: Transaction 2](https://github.com/ALovettII/20-challenge/blob/main/Execution_Results/02_withdraw-bal.png)
-        2. [Last: Transaction 2](https://github.com/ALovettII/20-challenge/blob/main/Execution_Results/02_withdraw-last.png)
+        a. [Last: Transaction 2](https://github.com/ALovettII/20-challenge/blob/main/Execution_Results/02_withdraw-last.png)
 
 
 ## Contributors
